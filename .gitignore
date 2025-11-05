@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 info.md
+WorkFlow.drawio
 
 # Editor directories and files
 .vscode/*
