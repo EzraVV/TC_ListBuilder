@@ -49,7 +49,8 @@ function FactionDropdown() {
 
       {selectedFaction && (
         <p>
-          You selected: <strong>{selectedFaction.name}</strong>{' '}
+          <strong>{selectedFaction.name}</strong> <br />
+          <br />
           <img
             src={selectedFaction.icon}
             alt={selectedFaction.name}
