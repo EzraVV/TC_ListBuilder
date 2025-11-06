@@ -34,3 +34,7 @@ this is a personal Project while i study at Dev Academy, this is going to be a w
 ** export functions **
 - printable list with warband rules/info
  
+
+
+## Current Relations Workflow
+ ![notsure](/src/Images/WF.png "Workflow")
