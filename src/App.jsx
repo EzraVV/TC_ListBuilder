@@ -6,7 +6,7 @@ import './App.css'
 
 function App() {
   const [showPopup, setShowPopup] = useState(true)
-  const [faction, setFaction] = useState(null)
+  const [faction, setFaction] = useState(null)x 
   const [warbandName, setWarbandName] = useState('')
   const [ducats, setDucats] = useState('')
   const [glory, setGlory] = useState('')
